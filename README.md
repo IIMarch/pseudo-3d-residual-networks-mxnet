@@ -7,6 +7,7 @@ This repo implements the network structure of P3D[1] with MXNet, pre-trained mod
 
 0. P3D ResNet trained on Sports-1M dataset: [BaiduYun url](https://pan.baidu.com/s/1boZFPHd)
 
+1. P3D ResNet trained on Kinetics dataset: [Frame](http://pan.baidu.com/s/1bOmHPW)
 
 ### Reference
 
